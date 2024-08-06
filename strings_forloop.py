@@ -20,4 +20,8 @@ print(friend[3])
 print(friend[4])
 print(friend[5])
 # print(friend[6])#index out of  range error
-
+print("Use of a for loop\n")
+for character in friend:
+    print(character)
+for character in bnd:
+    print(character)
